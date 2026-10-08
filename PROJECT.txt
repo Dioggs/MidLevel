@@ -1,0 +1,9 @@
+funcinais
+- bloquear pico de grande quantidade de requests
+- ler arquivo de configuração
+- usar docker
+
+não funcionais
+- suportar mais de 10.000 requests por segundo
+- usar cache do redis
+ 
