@@ -1,9 +1,11 @@
 funcinais
 - bloquear pico de grande quantidade de requests
 - ler arquivo de configuração
-- usar docker
+- possibilitar escolha de algoritmo de rate limiting
+- possibilitar de endpoint protegido
 
 não funcionais
 - suportar mais de 10.000 requests por segundo
 - usar cache do redis
+- usar docker
  
